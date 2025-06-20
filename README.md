@@ -43,3 +43,5 @@ reproducibility and usability. The project not only strengthens the understandin
 applications.
 
 ### OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/7174887a-458b-4f23-8960-490551a88cc1)
